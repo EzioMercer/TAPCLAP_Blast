@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Marvin-Round';
+	src: url('../assets/fonts/Marvin/Marvin-Round.eot');
+	src: local('Marvin Round'), local('Marvin-Round'),
+	             url('../assets/fonts/Marvin/Marvin-Round.eot?#iefix') format('embedded-opentype'),
+	             url('../assets/fonts/Marvin/Marvin-Round.woff2') format('woff2'),
+	             url('../assets/fonts/Marvin/Marvin-Round.woff') format('woff'),
+	             url('../assets/fonts/Marvin/Marvin-Round.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Marvin';
+	src: url('../assets/fonts/Marvin/Marvin.eot');
+	src: local('Marvin'),
+	             url('../assets/fonts/Marvin/Marvin.eot?#iefix') format('embedded-opentype'),
+	             url('../assets/fonts/Marvin/Marvin.woff2') format('woff2'),
+	             url('../assets/fonts/Marvin/Marvin.woff') format('woff'),
+	             url('../assets/fonts/Marvin/Marvin.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Marvin-Shadow';
+	src: url('../assets/fonts/Marvin/Marvin-Shadow.eot');
+	src: local('Marvin Shadow'), local('Marvin-Shadow'),
+	             url('../assets/fonts/Marvin/Marvin-Shadow.eot?#iefix') format('embedded-opentype'),
+	             url('../assets/fonts/Marvin/Marvin-Shadow.woff2') format('woff2'),
+	             url('../assets/fonts/Marvin/Marvin-Shadow.woff') format('woff'),
+	             url('../assets/fonts/Marvin/Marvin-Shadow.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
